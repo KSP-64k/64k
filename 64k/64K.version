@@ -1,0 +1,25 @@
+{
+"NAME":"64K",
+	"URL":"http://ksp-avc.cybutek.net/version.php?id=66",
+	"DOWNLOAD":"http://www.kingtiger.co.uk/kingtiger/wordpress/64k/",
+	"CHANGE_LOG_URL":"http://www.kingtiger.co.uk/kingtiger/wordpress/64k/",
+	"VERSION":
+	{
+		"MAJOR":0,
+		"MINOR":4,
+		"PATCH":0,
+		"BUILD":8
+	},
+	"KSP_VERSION":
+	{
+		"MAJOR":0,
+		"MINOR":25,
+		"PATCH":0
+	},
+	"KSP_VERSION_MIN":
+	{
+		"MAJOR":0,
+		"MINOR":25,
+		"PATCH":0
+	}
+}
